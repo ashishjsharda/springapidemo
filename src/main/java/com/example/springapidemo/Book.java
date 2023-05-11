@@ -4,4 +4,7 @@ public class Book {
     private String title;
     private String author;
 
+    public void setId(int i) {
+        this.id = i;
+    }
 }
